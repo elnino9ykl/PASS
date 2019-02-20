@@ -5,7 +5,7 @@ Panoramic Annular Semantic Segmentation
 For Validation (Most important files):
 
 [Unfolded Panoramas for Validation](https://pan.baidu.com/s/1lsd_CN9u4uSCp-KmE2pn9Q),
-[Annotations] (https://pan.baidu.com/s/1ZlLo6AEgKGll5aE7GQWlLA),
+[Annotations](https://pan.baidu.com/s/1ZlLo6AEgKGll5aE7GQWlLA),
 [Groundtruth](https://pan.baidu.com/s/1Y4Xp10J_fWrye_gLS3iyrA)
 
 Complete Panoramas:
