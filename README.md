@@ -5,7 +5,7 @@ Panoramic Annular Semantic Segmentation
 For Validation:
 [Unfolded Panoramas for Validation]
 [Annotations]
-[Groundtruth]
+[Groundtruth](https://pan.baidu.com/s/1Y4Xp10J_fWrye_gLS3iyrA)
 
 Complete Panoramas:
 
