@@ -8,6 +8,8 @@ For Validation (Most important files):
 [Annotations](https://pan.baidu.com/s/1ZlLo6AEgKGll5aE7GQWlLA),
 [Groundtruth](https://pan.baidu.com/s/1Y4Xp10J_fWrye_gLS3iyrA)
 
+You could use either annotations or groundtruth data for evaluation.
+
 Complete Panoramas:
 
 [All Unfolded Panoramas]
@@ -15,3 +17,12 @@ Complete Panoramas:
 RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
                [RAW2](),
                [RAW3](https://pan.baidu.com/s/1car_7_dH58wKWDjM6brhlQ)
+
+# Publications
+If you use our code or dataset, please consider our paper:
+
+K. Yang, X. Hu, L.M. Bergasa, E. Romera, X. Huang, D. Sun, K. Wang.
+
+Can we PASS beyond the Field of View? Panoramic Annular Semantic Segmentation for Real-World Surrounding Perception.
+
+IEEE Intelligent Vehicles Symposium (IV), Paris, France, June 2019.
