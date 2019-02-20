@@ -19,7 +19,7 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
                [RAW3](https://pan.baidu.com/s/1car_7_dH58wKWDjM6brhlQ)
 
 # Publications
-If you use our code or dataset, please consider our paper:
+If you use our code or dataset, please consider cite our paper:
 
 K. Yang, X. Hu, L.M. Bergasa, E. Romera, X. Huang, D. Sun, K. Wang.
 
