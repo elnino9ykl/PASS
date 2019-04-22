@@ -26,7 +26,7 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
 
 ![Example segmentation](example_segmentation.jpg?raw=true "Example segmentation")
 
-## Packages
+# Packages
 For instructions please refer to the README on each folder:
 
 * [train](train) contains tools for training the network for semantic segmentation.
