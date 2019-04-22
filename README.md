@@ -23,6 +23,9 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
                [RAW2](https://pan.baidu.com/s/1B_kaC8uu531exuXMlCE6_A),
                [RAW3](https://pan.baidu.com/s/1car_7_dH58wKWDjM6brhlQ)
 
+
+![Example segmentation](example_segmentation.jpg?raw=true "Example segmentation")
+
 # Publications
 If you use our code or dataset, please consider cite our paper:
 
