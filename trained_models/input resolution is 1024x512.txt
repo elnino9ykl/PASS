@@ -1,0 +1,2 @@
+Input resolution: 1024x512
+Classes: 28 classes (including 27 semantic classes and 1 unlabled class)
