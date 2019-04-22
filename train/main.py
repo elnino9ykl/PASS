@@ -1,4 +1,4 @@
-# Main code for training ERF-PSPNet, ERF-APSPNet model in Cityscapes dataset
+# Main code for training ERF-PSPNet, ERF-APSPNet model in Mapillary Vistas dataset (or Cityscapes, other datasets...)
 # April 2019
 # Kailun Yang
 #######################
