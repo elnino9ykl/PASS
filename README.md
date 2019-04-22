@@ -28,9 +28,9 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
 
 
 # Requirements:
-* Dataset (I suggest using Mappilary Vistas or Cityscpaes as training datasets. PASS, VISTAS and Cityscapes can both be tested using this code.)
+* Dataset (I suggest using Mappilary Vistas or Cityscpaes as training datasets. PASS, VISTAS or Cityscapes can be tested using this code.)
 * [**Python 3.6**](https://www.python.org/): If you don't have Python3.6 in your system, I suggest installing it with [Anaconda](https://www.anaconda.com/download/#linux)
-* [**PyTorch**](http://pytorch.org/): Make sure to install the Pytorch version for Python 3.6 with CUDA support (code only tested for CUDA 8.0, CUDA 9.0 and CUDA 10.0). 
+* [**PyTorch**](http://pytorch.org/): Make sure to install the Pytorch version for Python 3.6 with CUDA support (code tested for CUDA 8.0, CUDA 9.0 and CUDA 10.0). 
 * **Additional Python packages**: numpy, matplotlib, Pillow, torchvision and visdom (optional for --visualize flag)
 
 In Anaconda you can install with:
@@ -49,8 +49,8 @@ pip install numpy matplotlib torchvision Pillow visdom
 # Publications
 If you use our code or dataset, please consider cite our paper:
 
-K. Yang, X. Hu, L.M. Bergasa, E. Romera, X. Huang, D. Sun, K. Wang.
+**Can we PASS beyond the Field of View? Panoramic Annular Semantic Segmentation for Real-World Surrounding Perception.** 
+K. Yang, X. Hu, L.M. Bergasa, E. Romera, X. Huang, D. Sun, K. Wang, IEEE Intelligent Vehicles Symposium (IV), Paris, France, June 2019.
 
-Can we PASS beyond the Field of View? Panoramic Annular Semantic Segmentation for Real-World Surrounding Perception.
-
-IEEE Intelligent Vehicles Symposium (IV), Paris, France, June 2019.
+**PASS: Panoramic Annular Semantic Segmentation.**
+K. Yang, X. Hu, L.M. Bergasa, E. Romera, K. Wang.
