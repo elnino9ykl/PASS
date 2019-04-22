@@ -4,10 +4,10 @@ Panoramic Annular Semantic Segmentation in PyTorch
 # PASS Dataset
 For Validation (Most important files):
 
-[Unfolded Panoramas for Validation](https://pan.baidu.com/s/1lsd_CN9u4uSCp-KmE2pn9Q),
+[**Unfolded Panoramas for Validation**](https://pan.baidu.com/s/1lsd_CN9u4uSCp-KmE2pn9Q),
 (400 images)
 
-[Annonations](https://pan.baidu.com/s/1nhEM_leL_JNUB-PYeTgNRg), Code: kiol
+[**Annonations**](https://pan.baidu.com/s/1nhEM_leL_JNUB-PYeTgNRg), Code: kiol
 
 Please use the code to download the annotations (400 images)
 
@@ -34,7 +34,7 @@ For instructions please refer to the README on each folder:
 * [trained_models](trained_models) Contains the trained ERF-PSPNet and ERF-APSPNet models. 
 
 # CODE Requirements:
-* Dataset (I suggest using Mappilary Vistas or Cityscpaes as training datasets. For evaluation PASS, VISTAS or Cityscapes can be tested using this code.)
+* Dataset (I suggest using [**Mappilary Vistas**](https://www.mapillary.com/dataset/vistas) or Cityscpaes as training datasets. For evaluation PASS, VISTAS or Cityscapes can be tested using this code.)
 * [**Python 3.6**](https://www.python.org/): If you don't have Python3.6 in your system, I suggest installing it with [Anaconda](https://www.anaconda.com/download/#linux)
 * [**PyTorch**](http://pytorch.org/): Make sure to install the Pytorch version for Python 3.6 with CUDA support (code tested for CUDA 8.0, CUDA 9.0 and CUDA 10.0). I am using PyTorch 0.4.1.
 * **Additional Python packages**: numpy, matplotlib, Pillow, torchvision and visdom (optional for --visualize flag)
