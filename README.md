@@ -8,7 +8,8 @@ For Validation (Most important files):
 (400 images)
 
 [Annonations](https://pan.baidu.com/s/1nhEM_leL_JNUB-PYeTgNRg), Code: kiol
-Please use the code to download the annotations (400 images).
+
+Please use the code to download the annotations (400 images)
 
 [Groundtruth](https://pan.baidu.com/s/1Y4Xp10J_fWrye_gLS3iyrA)
 
