@@ -36,7 +36,7 @@ For instructions please refer to the README on each folder:
 # CODE Requirements:
 * Dataset (I suggest using Mappilary Vistas or Cityscpaes as training datasets. For evaluation PASS, VISTAS or Cityscapes can be tested using this code.)
 * [**Python 3.6**](https://www.python.org/): If you don't have Python3.6 in your system, I suggest installing it with [Anaconda](https://www.anaconda.com/download/#linux)
-* [**PyTorch**](http://pytorch.org/): Make sure to install the Pytorch version for Python 3.6 with CUDA support (code tested for CUDA 8.0, CUDA 9.0 and CUDA 10.0). 
+* [**PyTorch**](http://pytorch.org/): Make sure to install the Pytorch version for Python 3.6 with CUDA support (code tested for CUDA 8.0, CUDA 9.0 and CUDA 10.0). I am using PyTorch 0.4.1.
 * **Additional Python packages**: numpy, matplotlib, Pillow, torchvision and visdom (optional for --visualize flag)
 
 In Anaconda you can install with:
