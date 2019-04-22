@@ -1,7 +1,7 @@
 # Panoramic Annular Semantic Segmentation
 Panoramic Annular Semantic Segmentation
 
-# Dataset
+# PASS Dataset
 For Validation (Most important files):
 
 [Unfolded Panoramas for Validation](https://pan.baidu.com/s/1lsd_CN9u4uSCp-KmE2pn9Q),
