@@ -54,8 +54,5 @@ pip install numpy matplotlib torchvision Pillow visdom
 # Publications
 If you use our code or dataset, please consider cite our paper:
 
-**Can we PASS beyond the Field of View? Panoramic Annular Semantic Segmentation for Real-World Surrounding Perception.** 
-K. Yang, X. Hu, L.M. Bergasa, E. Romera, X. Huang, D. Sun, K. Wang, IEEE Intelligent Vehicles Symposium (IV), Paris, France, June 2019.
-
 **PASS: Panoramic Annular Semantic Segmentation.**
 K. Yang, X. Hu, L.M. Bergasa, E. Romera, et al.
