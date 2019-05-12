@@ -18,7 +18,7 @@ python3.6 eval_color.py --datadir ./home/kailun/Downloads/PASS-master/dataset/ -
 
 ## eval_color_4.py
 
-This code can be used to produce segmentation in color using adapted ERF-PSPNet, ERF-APSPNet or other adapted networks. (using 4 feature models and 1 fusion models, with special padding and upsamling operations)
+This code can be used to produce segmentation in color using adapted ERF-PSPNet, ERF-APSPNet or other adapted networks. (using 4 feature models and 1 fusion model, with special padding and upsamling operations)
 
 **Examples**
 ```
