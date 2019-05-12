@@ -22,7 +22,7 @@ This code can be used to produce segmentation in color using adapted ERF-PSPNet,
 
 **Examples**
 ```
-python3.6 eval_color.py --datadir /home/kailun/Downloads/PASS-master/dataset/ --subset pass --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet_splits4.py
+python3.6 eval_color_4.py --datadir /home/kailun/Downloads/PASS-master/dataset/ --subset pass --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet_splits4.py
 ```
 
 ## eval_validation_time.py
