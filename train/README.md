@@ -16,17 +16,17 @@ For all options and defaults please see the bottom of the "main.py" file. Requir
 
 Train ERF-PSPNet decoder using encoder's pretrained weights with ImageNet:
 ```
-python3.6 main.py --savedir erfnet_pspnet_training1 --datadir /home/kailun/Downloads/dataset/ --num-epochs 60 --batch-size 6 --decoder --pretrainedEncoder "../trained_models/erfnet_encoder_pretrained.pth.tar"
+python3.6 main.py --savedir erfnet_pspnet_training1 --datadir /home/kailun/Downloads/PASS-master/dataset/ --num-epochs 60 --batch-size 6 --decoder --pretrainedEncoder "../trained_models/erfnet_encoder_pretrained.pth.tar"
 ```
 
 Train ERF-APSPNet decoder using encoder's pretrained weights with ImageNet:
 ```
-python3.6 main.py --savedir erfnet_apspnet_training1 --datadir /home/kailun/Downloads/dataset/ --num-epochs 60 --batch-size 6 --decoder --pretrainedEncoder "../trained_models/erfnet_encoder_pretrained.pth.tar" --model erfnet_apspnet
+python3.6 main.py --savedir erfnet_apspnet_training1 --datadir /home/kailun/Downloads/PASS-master/dataset/ --num-epochs 60 --batch-size 6 --decoder --pretrainedEncoder "../trained_models/erfnet_encoder_pretrained.pth.tar" --model erfnet_apspnet
 ```
 
 Train encoder with 60 epochs and batch=6 and then train decoder (decoder training starts after encoder training):
 ```
-python3.6 main.py --savedir erfnet_pspnet_traning1 --datadir /home/kailun/Downloads/dataset/ --num-epochs 60 --batch-size 6 
+python3.6 main.py --savedir erfnet_pspnet_traning1 --datadir /home/kailun/Downloads/PASS-master/dataset/ --num-epochs 60 --batch-size 6 
 ```
 
 ## Output files generated for each training:
