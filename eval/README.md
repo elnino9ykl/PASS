@@ -10,10 +10,10 @@ Specify the trained moddel with '--loadWeights' and '--loadModel' options.
 
 **Examples**
 ```
-python3.6 eval_color.py --datadir ../dataset/ --subset val --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet.py
+python3.6 eval_color.py --datadir /home/kailun/Downloads/PASS-master/dataset/ --subset val --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet.py
 ```
 ```
-python3.6 eval_color.py --datadir ../dataset/ -subset pass --loadDir ../trained_models/ --loadWeights erfapspnet.pth --loadModel erfnet_apspnet.py
+python3.6 eval_color.py --datadir ./home/kailun/Downloads/PASS-master/dataset/ -subset pass --loadDir ../trained_models/ --loadWeights erfapspnet.pth --loadModel erfnet_apspnet.py
 ```
 
 ## eval_color_4.py
@@ -22,7 +22,7 @@ This code can be used to produce segmentation in color using adapted ERF-PSPNet,
 
 **Examples**
 ```
-python3.6 eval_color.py --datadir ../dataset --subset pass --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet_splits4.py
+python3.6 eval_color.py --datadir /home/kailun/Downloads/PASS-master/dataset/ --subset pass --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet_splits4.py
 ```
 
 ## eval_validation_time.py
@@ -31,5 +31,5 @@ This code can be used to calculate the evaluation time running through the PASS 
 
 **Examples**
 ```
-python3.6 eval_validation_time.py --datadir ../dataset --subset pass --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet_sppad.py
+python3.6 eval_validation_time.py --datadir /home/kailun/Downloads/PASS-master/dataset/ --subset pass --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet_sppad.py
 ```
