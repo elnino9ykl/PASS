@@ -13,7 +13,7 @@ Specify the trained moddel with '--loadWeights' and '--loadModel' options.
 python3.6 eval_color.py --datadir /home/kailun/Downloads/PASS-master/dataset/ --subset val --loadDir ../trained_models/ --loadWeights erfpspnet.pth --loadModel erfnet_pspnet.py
 ```
 ```
-python3.6 eval_color.py --datadir ./home/kailun/Downloads/PASS-master/dataset/ -subset pass --loadDir ../trained_models/ --loadWeights erfapspnet.pth --loadModel erfnet_apspnet.py
+python3.6 eval_color.py --datadir /home/kailun/Downloads/PASS-master/dataset/ -subset pass --loadDir ../trained_models/ --loadWeights erfapspnet.pth --loadModel erfnet_apspnet.py
 ```
 
 ## eval_color_4.py
