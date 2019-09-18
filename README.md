@@ -7,9 +7,7 @@ For Validation (Most important files):
 [**Unfolded Panoramas for Validation**](https://pan.baidu.com/s/1lsd_CN9u4uSCp-KmE2pn9Q),
 (400 images)
 
-[**Annonations**](https://pan.baidu.com/s/1nhEM_leL_JNUB-PYeTgNRg), Code: kiol
-
-Please use the Code (kiol) to download the annotations (400 images)
+[**Annonations**](https://pan.baidu.com/s/12K8l3OKn2dDXzVAF8oqfWQ), (400 annotation images)
 
 [Groundtruth](https://pan.baidu.com/s/1Y4Xp10J_fWrye_gLS3iyrA)
 
