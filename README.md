@@ -50,7 +50,7 @@ pip install numpy matplotlib torchvision Pillow visdom
 ```
 
 # Publications
-If you use our code or dataset, please consider cite our paper:
+If you use our code or dataset, please consider referencing any of the following papers:
 
 **PASS: Panoramic Annular Semantic Segmentation.**
 K. Yang, X. Hu, L.M. Bergasa, E. Romera, K. Wang.
