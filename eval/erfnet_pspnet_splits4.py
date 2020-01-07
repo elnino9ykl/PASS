@@ -268,7 +268,7 @@ class PSPDec(nn.Module):
                 xC = self.upsample(xC)
                 xC = xC[:, :, :, self.downsize[1]:-self.downsize[1]]
                 xD = torch.cat([leftD, xD, rightD], 3)
-                xD = self.upsample(xC)
+                xD = self.upsample(xD)
                 xD = xD[:, :, :, self.downsize[1]:-self.downsize[1]]
         else:
             xA = self.upsample(xA)
