@@ -2,12 +2,12 @@
 Panoramic Annular Semantic Segmentation in PyTorch
 
 # PASS Dataset
-For Validation (Most important files):
 
+## GoogleDrive
 [**New! Google Drive Download Link**](https://drive.google.com/file/d/1A_P2u5HUbrHZnKJYAOL2f7JLxxj69LqB/view?usp=sharing)
 
-
-BaiduYun Links: 
+## BaiduYun
+For Validation (Most important files):
 
 [**Unfolded Panoramas for Validation**](https://pan.baidu.com/s/1lsd_CN9u4uSCp-KmE2pn9Q),
 (400 images)
