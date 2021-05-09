@@ -59,7 +59,7 @@ If you use our code or dataset, please consider referencing any of the following
 
 **PASS: Panoramic Annular Semantic Segmentation.**
 K. Yang, X. Hu, L.M. Bergasa, E. Romera, K. Wang.
-IEEE Transactions on Intelligent Transportation Systems, September 2019.
+IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), September 2019.
 [[**PDF**](http://www.robesafe.uah.es/personal/bergasa/papers/IEEE_T_ITS_Kailun_2019_FINAL%20VERSION.pdf)]
 
 ```
@@ -77,7 +77,7 @@ publisher={IEEE}
 
 **Can we PASS beyond the Field of View? Panoramic Annular Semantic Segmentation for Real-World Surrounding Perception.**
 K. Yang, X. Hu, L.M. Bergasa, E. Romera, X. Huang, D. Sun, K. Wang.
-In IEEE Intelligent Vehicles Symposium (IV), Paris, France, June 2019, pp. 446-453.
+In IEEE Intelligent Vehicles Symposium (**IV**), Paris, France, June 2019, pp. 446-453.
 [[**PDF**](http://www.robesafe.uah.es/personal/bergasa/papers/IV2019_Kailun.pdf)]
 [[**VIDEO**](http://www.robesafe.uah.es/personal/bergasa/papers/IV2019_1384x3432.mp4)]
 
