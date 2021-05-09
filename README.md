@@ -62,8 +62,32 @@ K. Yang, X. Hu, L.M. Bergasa, E. Romera, K. Wang.
 IEEE Transactions on Intelligent Transportation Systems, September 2019.
 [[**PDF**](http://www.robesafe.uah.es/personal/bergasa/papers/IEEE_T_ITS_Kailun_2019_FINAL%20VERSION.pdf)]
 
+```
+@article{yang2020pass,
+title={PASS: Panoramic Annular Semantic Segmentation},
+author={Yang, Kailun and Hu, Xinxin and Bergasa, Luis M and Romera, Eduardo and Wang, Kaiwei},
+journal={IEEE Transactions on Intelligent Transportation Systems},
+volume={21},
+number={10},
+pages={4171-4185},
+year={2020},
+publisher={IEEE}
+}
+```
+
 **Can we PASS beyond the Field of View? Panoramic Annular Semantic Segmentation for Real-World Surrounding Perception.**
 K. Yang, X. Hu, L.M. Bergasa, E. Romera, X. Huang, D. Sun, K. Wang.
 In IEEE Intelligent Vehicles Symposium (IV), Paris, France, June 2019, pp. 446-453.
 [[**PDF**](http://www.robesafe.uah.es/personal/bergasa/papers/IV2019_Kailun.pdf)]
 [[**VIDEO**](http://www.robesafe.uah.es/personal/bergasa/papers/IV2019_1384x3432.mp4)]
+
+```
+@inproceedings{yang2019can,
+title={Can we pass beyond the field of view? panoramic annular semantic segmentation for real-world surrounding perception},
+author={Yang, Kailun and Hu, Xinxin and Bergasa, Luis M and Romera, Eduardo and Huang, Xiao and Sun, Dongming and Wang, Kaiwei},
+booktitle={2019 IEEE Intelligent Vehicles Symposium (IV)},
+pages={446--453},
+year={2019},
+organization={IEEE}
+}
+```
