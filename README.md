@@ -69,7 +69,7 @@ author={Yang, Kailun and Hu, Xinxin and Bergasa, Luis M and Romera, Eduardo and 
 journal={IEEE Transactions on Intelligent Transportation Systems},
 volume={21},
 number={10},
-pages={4171-4185},
+pages={4171--4185},
 year={2020},
 publisher={IEEE}
 }
